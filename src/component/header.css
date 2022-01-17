@@ -1,0 +1,97 @@
+body{
+    margin:auto;
+    background-color:rgba(128, 128, 128, 0.144);
+}
+
+#header{
+ height:60px;
+ background-color:rgba(128, 128, 128, 0.39);
+}
+
+
+
+#brand{
+    float:left;
+    margin-left:3%;
+    font-size:50px;
+    color:#093f66;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+}
+
+a:-webkit-any-link {
+    text-decoration: none !important;
+}
+
+a{
+    color:#093f66;
+}
+
+.social{
+    float:right!important;
+    margin-left:50%;
+    margin-top:-6%;
+    
+   
+   
+}
+
+a.btn.btn-login{
+    background-color:#ff123247;
+    color:white;
+    margin-left:0px !important; 
+    margin-top: 33%;
+    text-align:center;
+}
+
+
+a.btn.btn-register{
+    margin-left:3px !important;
+
+    background-color: #9552ff47;
+    color:white;
+    margin-top: 33%;
+    text-align:center;
+}
+
+
+/* .afterlogin{
+    float:right!important;
+    margin-left:55%;
+    margin-top:-6%;
+
+} */
+
+/* button.btn.btn-dark{
+    
+    margin-top:16%;
+    background-color:aqua;
+    margin-left:0px !important; 
+    
+}
+
+button.btn.btn-secondary{
+   
+    margin-top:40%;
+    background-color:blueviolet;
+    margin-left:0px !important; 
+    
+} */
+
+
+button.btn.btn-logged{
+    background-color:#35f21c42;;
+    color:white;
+    margin-left:0px !important; 
+    margin-top: 33%;
+  
+}
+
+
+button.btn.btn-logout{
+    margin-left:3px !important;
+    background-color:#ff454542;
+    color:white;
+    margin-top: 33%;
+   
+}
