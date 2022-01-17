@@ -3,7 +3,7 @@ import {Link} from 'react-router-dom';
 import './header.css';
 import {withRouter} from 'react-router-dom';
 
-const url ="http://localhost:5000/auth/userInfo"
+const url ="https://zomloginlogout.herokuapp.com/auth/userInfo"
 
 class Header extends Component{
     constructor(props){
